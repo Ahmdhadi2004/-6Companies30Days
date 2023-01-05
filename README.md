@@ -1,1 +1,1 @@
-# -6Companies30Days
+#Companies30Days
