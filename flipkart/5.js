@@ -1,0 +1,22 @@
+/* Finding the Mountain Array */
+var mountainArray = document.getElementsByClassName('mountain');
+var mountainArray = document.getElementsByTagName('div');
+var mountainArray = document.getElementsByTagName('*');
+var mountainArray = document.querySelectorAll('div');
+var mountainArray = document.querySelectorAll('div.mountain');
+var mountainArray = document.querySelectorAll('div.mountain, div.hill');
+var mountainArray = document.querySelectorAll('div.mountain, div.hill, div.valley');
+var mountainArray = document.querySelectorAll('div.mountain, div.hill, div.valley, div.river');
+var mountainArray = document.querySelectorAll('div.mountain, div.hill, div.valley, div.river, div.forest');
+var mountainArray = document.querySelectorAll('div.mountain, div.hill, div.valley, div.river, div.forest, div.tree');
+var mountainArray = document.querySelectorAll('div.mountain, div.hill, div.valley, div.river, div.forest, div.tree, div.leaf');
+var mountainArray = document.querySelectorAll('div.mountain, div.hill, div.valley, div.river, div.forest, div.tree, div.leaf, div.rock');
+var mountainArray = document.querySelectorAll('div.mountain, div.hill, div.valley, div.river, div.forest, div.tree, div.leaf, div.rock, div.dirt');
+var mountainArray = document.querySelectorAll('div.mountain, div.hill, div.valley, div.river, div.forest, div.tree, div.leaf, div.rock, div.dirt, div.grass');
+var mountainArray = document.querySelectorAll('div.mountain, div.hill, div.valley, div.river, div.forest, div.tree, div.leaf, div.rock, div.dirt, div.grass, div.cloud');
+var mountainArray = document.querySelectorAll('div.mountain, div.hill, div.valley, div.river, div.forest, div.tree, div.leaf, div.rock, div.dirt, div.grass, div.cloud, div.sky');
+var mountainArray = document.querySelectorAll('div.mountain, div.hill, div.valley, div.river, div.forest, div.tree, div.leaf, div.rock, div.dirt, div.grass, div.cloud, div.sky, div.sun');
+var mountainArray = document.querySelectorAll('div.mountain, div.hill, div.valley, div.river, div.forest, div.tree, div.leaf, div.rock, div.dirt, div.grass, div.cloud, div.sky, div.sun, div.moon');
+var mountainArray = document.querySelectorAll('div.mountain, div.hill, div.valley, div.river, div.forest, div.tree, div.leaf, div.rock, div.dirt, div.grass, div.cloud, div.sky, div.sun, div.moon, div.star');
+var mountainArray = document.querySelectorAll('div.mountain, div.hill, div.valley, div.river, div.forest, div.tree, div.leaf, div.rock, div.dirt, div.grass, div.cloud, div.sky, div.sun, div.moon, div.star, div.rain');
+var mountainArray = document.querySelectorAll('div.mountain, div.hill, div.valley, div.river, div.forest, div.tree, div.leaf, div.rock, div.dirt, div.grass, div.cloud, div.sky, div.sun, div.moon, div.star, div.rain, div.snow');
